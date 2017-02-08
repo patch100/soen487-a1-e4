@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <manufacturerName>Brand1</manufacturerName>
+        <productType>DVD player</productType>
+        <unitPrice>100.0</unitPrice>
+        <quantity>50</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand1</manufacturerName>
+        <productType>video camera</productType>
+        <unitPrice>325.0</unitPrice>
+        <quantity>200</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand1</manufacturerName>
+        <productType>TV</productType>
+        <unitPrice>500.0</unitPrice>
+        <quantity>25</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand2</manufacturerName>
+        <productType>DVD player</productType>
+        <unitPrice>100.0</unitPrice>
+        <quantity>50</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand2</manufacturerName>
+        <productType>video camera</productType>
+        <unitPrice>325.0</unitPrice>
+        <quantity>200</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand2</manufacturerName>
+        <productType>TV</productType>
+        <unitPrice>500.0</unitPrice>
+        <quantity>25</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand3</manufacturerName>
+        <productType>DVD player</productType>
+        <unitPrice>100.0</unitPrice>
+        <quantity>50</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand3</manufacturerName>
+        <productType>video camera</productType>
+        <unitPrice>325.0</unitPrice>
+        <quantity>200</quantity>
+    </product>
+    <product>
+        <manufacturerName>Brand3</manufacturerName>
+        <productType>TV</productType>
+        <unitPrice>500.0</unitPrice>
+        <quantity>25</quantity>
+    </product>
+</products>
